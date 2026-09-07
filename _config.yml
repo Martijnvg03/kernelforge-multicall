@@ -1,5 +1,5 @@
-title: KernelForge DynGadgets
-description: Chained kernel function calls through pure ROP — extending KernelForge with dynamic gadgets, local variables, and persistent thread reuse
-remote_theme: pages-themes/hacker@v0.2.0
+title: KernelForge Multi-Call Chains
+description: Chaining arbitrary kernel function calls through pure ROP — extending KernelForge with dynamic gadgets, stack-local variables, and persistent thread reuse
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
